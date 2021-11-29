@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Blockchain, Cybersecurity, Microsoft Technologies.
 - 🌱 I’m currently learning How to build the new ecosystem and reshape the world.
 - 💞️ I’m looking for partners globally.
-- 📫 Please reach me: [Email: abc@dar.pub]
+- 📫 Please reach me via Email [abc@dar.pub]
 
 <!---
 DARPUB/DARPUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
