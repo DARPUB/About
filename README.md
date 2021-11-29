@@ -1,6 +1,6 @@
 - 👋 Hi, I’m the founder@DARPUB
 - 👀 I’m interested in AI, Blockchain, Cybersecurity, Microsoft Technologies.
-- 🌱 I’m currently learning How to build the new ecosystem and reshape the world.
+- 🌱 I’m currently learning how to build the new ecosystem and reshape the world.
 - 💞️ I’m looking for partners globally.
 - 📫 Please reach me via Email [abc@dar.pub]
 
